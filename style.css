@@ -1,0 +1,45 @@
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+h2 {
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+    text-align: center;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    background: #FF0000;
+    width: 558px;
+    height: 452px;
+}
+
+span{
+    color: white;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding: 180px 200px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+}
